@@ -23,3 +23,6 @@ o GitHub Desktop, a Git GUI for managing git repositories and branches.
 
 o TortoiseGit, a Git GUI for managing git repositories and branches.
 		https://tortoisegit.org
+
+o Notepad ++
+		https://notepad-plus-plus.org/downloads/
